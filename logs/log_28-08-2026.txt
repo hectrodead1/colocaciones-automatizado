@@ -1,0 +1,24 @@
+28/08/2026 11:15:11 - --- INICIO DE PROCESAMIENTO ---
+28/08/2026 11:15:11 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+28/08/2026 11:15:11 - Archivo leído correctamente. 4 préstamos encontrados.
+28/08/2026 11:15:14 - Archivo para BHD generado correctamente.
+28/08/2026 11:15:14 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 28 08 2026.xlsx
+28/08/2026 11:15:14 - Tiempo total: 2.47 segundos.
+28/08/2026 11:15:14 - --- FIN DE PROCESAMIENTO ---
+
+28/08/2026 11:16:04 - --- INICIO DE PROCESAMIENTO ---
+28/08/2026 11:16:04 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+28/08/2026 11:16:04 - Archivo leído correctamente. 2 préstamos encontrados.
+28/08/2026 11:16:05 - Archivo para BANRESERVAS generado correctamente.
+28/08/2026 11:16:05 - Archivo generado correctamente: MUESTRA DE CARGA BANRESERVAS 28 8 2026.txt
+28/08/2026 11:16:05 - Tiempo total: 1.03 segundos.
+28/08/2026 11:16:05 - --- FIN DE PROCESAMIENTO ---
+
+28/08/2026 11:20:19 - --- INICIO DE PROCESAMIENTO ---
+28/08/2026 11:20:19 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+28/08/2026 11:20:19 - Archivo leído correctamente. 4 préstamos encontrados.
+28/08/2026 11:20:20 - Archivo para BHD generado correctamente.
+28/08/2026 11:20:20 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 28 08 2026 (1).xlsx
+28/08/2026 11:20:20 - Tiempo total: 1.30 segundos.
+28/08/2026 11:20:20 - --- FIN DE PROCESAMIENTO ---
+

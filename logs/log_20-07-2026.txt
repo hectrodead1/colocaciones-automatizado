@@ -1,0 +1,43 @@
+20/07/2026 11:17:17 - --- INICIO DE PROCESAMIENTO ---
+20/07/2026 11:17:17 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+20/07/2026 11:17:17 - Archivo leído correctamente. 2 préstamos encontrados.
+20/07/2026 11:17:19 - Archivo generado correctamente.
+20/07/2026 11:17:19 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 20 07 2026.xlsx
+20/07/2026 11:17:19 - Tiempo total: 2.11 segundos.
+20/07/2026 11:17:19 - --- FIN DE PROCESAMIENTO ---
+
+20/07/2026 11:36:36 - --- INICIO DE PROCESAMIENTO ---
+20/07/2026 11:36:36 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+20/07/2026 11:36:36 - Archivo leído correctamente. 2 préstamos encontrados.
+20/07/2026 11:36:38 - Archivo para BANRESERVAS generado correctamente.
+20/07/2026 11:36:38 - Archivo generado correctamente: MUESTRA DE CARGA BANRESERVAS 20 7 2026 (1).txt
+20/07/2026 11:36:38 - Tiempo total: 1.07 segundos.
+20/07/2026 11:36:38 - --- FIN DE PROCESAMIENTO ---
+
+20/07/2026 11:37:27 - --- INICIO DE PROCESAMIENTO ---
+20/07/2026 11:37:27 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+20/07/2026 11:37:27 - Archivo leído correctamente. 2 préstamos encontrados.
+20/07/2026 11:37:28 - Archivo para BHD generado correctamente.
+20/07/2026 11:37:28 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 20072026 (1).xlsx
+20/07/2026 11:37:28 - Tiempo total: 1.18 segundos.
+20/07/2026 11:37:28 - --- FIN DE PROCESAMIENTO ---
+
+20/07/2026 11:52:13 - --- INICIO DE PROCESAMIENTO ---
+20/07/2026 11:52:13 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/miproyectomude/proyectos de automatizacion de trabajo/colocaciones automatizado/(ENTRADA DE BANRESERVAS)MUESTRA DE CARGA BANRESERVAS 20 7 2026.xlsx
+20/07/2026 11:52:13 - El archivo está abierto en otro programa. Ciérrelo e intente nuevamente.
+20/07/2026 11:52:18 - --- INICIO DE PROCESAMIENTO ---
+20/07/2026 11:52:18 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/miproyectomude/proyectos de automatizacion de trabajo/colocaciones automatizado/(ENTRADA DE BANRESERVAS)MUESTRA DE CARGA BANRESERVAS 20 7 2026.xlsx
+20/07/2026 11:52:18 - Archivo leído correctamente. 1 préstamos encontrados.
+20/07/2026 11:52:19 - Archivo para BANRESERVAS generado correctamente.
+20/07/2026 11:52:19 - Archivo generado correctamente: MUESTRA DE CARGA BANRESERVAS 20 7 2026.txt
+20/07/2026 11:52:19 - Tiempo total: 1.13 segundos.
+20/07/2026 11:52:19 - --- FIN DE PROCESAMIENTO ---
+
+20/07/2026 11:52:36 - --- INICIO DE PROCESAMIENTO ---
+20/07/2026 11:52:36 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/miproyectomude/proyectos de automatizacion de trabajo/colocaciones automatizado/(ENTRADA DE BANRESERVAS)MUESTRA DE CARGA BANRESERVAS 20 7 2026.xlsx
+20/07/2026 11:52:36 - Archivo leído correctamente. 1 préstamos encontrados.
+20/07/2026 11:52:37 - Archivo para BHD generado correctamente.
+20/07/2026 11:52:37 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 20072026 (2).xlsx
+20/07/2026 11:52:37 - Tiempo total: 1.13 segundos.
+20/07/2026 11:52:37 - --- FIN DE PROCESAMIENTO ---
+

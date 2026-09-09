@@ -1,0 +1,16 @@
+04/08/2026 16:20:48 - --- INICIO DE PROCESAMIENTO ---
+04/08/2026 16:20:48 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+04/08/2026 16:20:48 - Archivo leído correctamente. 6 préstamos encontrados.
+04/08/2026 16:20:50 - Archivo para BHD generado correctamente.
+04/08/2026 16:20:50 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 04 08 2026.xlsx
+04/08/2026 16:20:50 - Tiempo total: 1.97 segundos.
+04/08/2026 16:20:50 - --- FIN DE PROCESAMIENTO ---
+
+04/08/2026 16:22:23 - --- INICIO DE PROCESAMIENTO ---
+04/08/2026 16:22:23 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+04/08/2026 16:22:24 - Archivo leído correctamente. 6 préstamos encontrados.
+04/08/2026 16:22:25 - Archivo para BHD generado correctamente.
+04/08/2026 16:22:25 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 04 08 2026 (1).xlsx
+04/08/2026 16:22:25 - Tiempo total: 1.10 segundos.
+04/08/2026 16:22:25 - --- FIN DE PROCESAMIENTO ---
+

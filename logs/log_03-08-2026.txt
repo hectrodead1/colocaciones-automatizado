@@ -1,0 +1,27 @@
+03/08/2026 16:31:20 - --- INICIO DE PROCESAMIENTO ---
+03/08/2026 16:31:20 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+03/08/2026 16:31:20 - El archivo está abierto en otro programa. Ciérrelo e intente nuevamente.
+03/08/2026 16:31:26 - --- INICIO DE PROCESAMIENTO ---
+03/08/2026 16:31:26 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+03/08/2026 16:31:26 - Archivo leído correctamente. 7 préstamos encontrados.
+03/08/2026 16:31:27 - Archivo para BHD generado correctamente.
+03/08/2026 16:31:27 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 03 08 2026.xlsx
+03/08/2026 16:31:27 - Tiempo total: 1.51 segundos.
+03/08/2026 16:31:27 - --- FIN DE PROCESAMIENTO ---
+
+03/08/2026 16:33:13 - --- INICIO DE PROCESAMIENTO ---
+03/08/2026 16:33:13 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+03/08/2026 16:33:13 - Archivo leído correctamente. 2 préstamos encontrados.
+03/08/2026 16:33:14 - Archivo para BHD generado correctamente.
+03/08/2026 16:33:14 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 03 08 2026.xlsx
+03/08/2026 16:33:14 - Tiempo total: 1.32 segundos.
+03/08/2026 16:33:14 - --- FIN DE PROCESAMIENTO ---
+
+03/08/2026 16:33:25 - --- INICIO DE PROCESAMIENTO ---
+03/08/2026 16:33:25 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+03/08/2026 16:33:25 - Archivo leído correctamente. 2 préstamos encontrados.
+03/08/2026 16:33:27 - Archivo para BHD generado correctamente.
+03/08/2026 16:33:27 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 03 08 2026 (1).xlsx
+03/08/2026 16:33:27 - Tiempo total: 2.10 segundos.
+03/08/2026 16:33:27 - --- FIN DE PROCESAMIENTO ---
+

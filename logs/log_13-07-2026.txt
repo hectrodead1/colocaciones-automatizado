@@ -1,0 +1,72 @@
+13/07/2026 09:09:12 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 09:09:12 - Archivo de entrada seleccionado: C:/Users/hgomez/Downloads/MUESTRA.xlsx
+13/07/2026 09:09:12 - Archivo leído correctamente. 7 préstamos encontrados.
+13/07/2026 09:09:17 - Archivo generado correctamente.
+13/07/2026 09:09:17 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13072026.xlsx
+13/07/2026 09:09:17 - Tiempo total: 4.91 segundos.
+13/07/2026 09:09:17 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 09:15:34 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 09:15:34 - Archivo de entrada seleccionado: C:/Users/hgomez/Downloads/MUESTRA.xlsx
+13/07/2026 09:15:34 - Archivo leído correctamente. 7 préstamos encontrados.
+13/07/2026 09:15:35 - Archivo generado correctamente.
+13/07/2026 09:15:35 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13072026.xlsx
+13/07/2026 09:15:35 - Tiempo total: 1.41 segundos.
+13/07/2026 09:15:35 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 09:20:38 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 09:20:38 - Archivo de entrada seleccionado: C:/Users/hgomez/Downloads/MUESTRA.xlsx
+13/07/2026 09:20:38 - Archivo leído correctamente. 7 préstamos encontrados.
+13/07/2026 09:20:39 - Archivo generado correctamente.
+13/07/2026 09:20:39 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13072026.xlsx
+13/07/2026 09:20:39 - Tiempo total: 1.14 segundos.
+13/07/2026 09:20:39 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 09:35:51 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 09:35:51 - Archivo de entrada seleccionado: C:/Users/hgomez/Downloads/MUESTRA.xlsx
+13/07/2026 09:35:51 - Archivo leído correctamente. 7 préstamos encontrados.
+13/07/2026 09:35:52 - Archivo generado correctamente.
+13/07/2026 09:35:52 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13072026 (1).xlsx
+13/07/2026 09:35:52 - Tiempo total: 1.26 segundos.
+13/07/2026 09:35:52 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 09:44:20 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 09:44:20 - Archivo de entrada seleccionado: C:/Users/hgomez/Downloads/MUESTRA.xlsx
+13/07/2026 09:44:20 - Archivo leído correctamente. 7 préstamos encontrados.
+13/07/2026 09:44:21 - Archivo generado correctamente.
+13/07/2026 09:44:21 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13072026.xlsx
+13/07/2026 09:44:21 - Tiempo total: 1.58 segundos.
+13/07/2026 09:44:21 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 09:51:26 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 09:51:26 - Archivo de entrada seleccionado: C:/Users/hgomez/Downloads/MUESTRA.xlsx
+13/07/2026 09:51:26 - Archivo leído correctamente. 7 préstamos encontrados.
+13/07/2026 09:51:28 - Archivo generado correctamente.
+13/07/2026 09:51:28 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13072026.xlsx
+13/07/2026 09:51:28 - Tiempo total: 1.06 segundos.
+13/07/2026 09:51:28 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 10:08:40 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 10:08:40 - Archivo de entrada seleccionado: C:/Users/hgomez/Downloads/MUESTRA.xlsx
+13/07/2026 10:08:40 - Archivo leído correctamente. 7 préstamos encontrados.
+13/07/2026 10:08:41 - Archivo generado correctamente.
+13/07/2026 10:08:41 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13 07 2026.xlsx
+13/07/2026 10:08:41 - Tiempo total: 1.07 segundos.
+13/07/2026 10:08:41 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 15:14:01 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 15:14:01 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+13/07/2026 15:14:01 - Archivo leído correctamente. 1 préstamos encontrados.
+13/07/2026 15:14:02 - Archivo generado correctamente.
+13/07/2026 15:14:02 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13 07 2026.xlsx
+13/07/2026 15:14:02 - Tiempo total: 1.39 segundos.
+13/07/2026 15:14:02 - --- FIN DE PROCESAMIENTO ---
+
+13/07/2026 15:32:17 - --- INICIO DE PROCESAMIENTO ---
+13/07/2026 15:32:17 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+13/07/2026 15:32:17 - Archivo leído correctamente. 2 préstamos encontrados.
+13/07/2026 15:32:18 - Archivo generado correctamente.
+13/07/2026 15:32:18 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13 07 2026 (1).xlsx
+13/07/2026 15:32:18 - Tiempo total: 1.27 segundos.
+13/07/2026 15:32:18 - --- FIN DE PROCESAMIENTO ---
+

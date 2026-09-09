@@ -1,0 +1,35 @@
+13/08/2026 09:40:50 - --- INICIO DE PROCESAMIENTO ---
+13/08/2026 09:40:50 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+13/08/2026 09:40:50 - El archivo está abierto en otro programa. Ciérrelo e intente nuevamente.
+13/08/2026 09:41:02 - --- INICIO DE PROCESAMIENTO ---
+13/08/2026 09:41:02 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+13/08/2026 09:41:02 - Archivo leído correctamente. 3 préstamos encontrados.
+13/08/2026 09:41:06 - Archivo para BHD generado correctamente.
+13/08/2026 09:41:06 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13 08 2026.xlsx
+13/08/2026 09:41:06 - Tiempo total: 3.84 segundos.
+13/08/2026 09:41:06 - --- FIN DE PROCESAMIENTO ---
+
+13/08/2026 09:41:27 - --- INICIO DE PROCESAMIENTO ---
+13/08/2026 09:41:27 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+13/08/2026 09:41:27 - Archivo leído correctamente. 3 préstamos encontrados.
+13/08/2026 09:41:28 - Archivo para BANRESERVAS generado correctamente.
+13/08/2026 09:41:28 - Archivo generado correctamente: MUESTRA DE CARGA BANRESERVAS 13 8 2026.txt
+13/08/2026 09:41:28 - Tiempo total: 1.31 segundos.
+13/08/2026 09:41:28 - --- FIN DE PROCESAMIENTO ---
+
+13/08/2026 15:47:41 - --- INICIO DE PROCESAMIENTO ---
+13/08/2026 15:47:41 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+13/08/2026 15:47:41 - Archivo leído correctamente. 1 préstamos encontrados.
+13/08/2026 15:47:43 - Archivo para BANRESERVAS generado correctamente.
+13/08/2026 15:47:43 - Archivo generado correctamente: MUESTRA DE CARGA BANRESERVAS 13 8 2026.txt
+13/08/2026 15:47:43 - Tiempo total: 1.54 segundos.
+13/08/2026 15:47:43 - --- FIN DE PROCESAMIENTO ---
+
+13/08/2026 15:48:28 - --- INICIO DE PROCESAMIENTO ---
+13/08/2026 15:48:28 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+13/08/2026 15:48:28 - Archivo leído correctamente. 4 préstamos encontrados.
+13/08/2026 15:48:29 - Archivo para BHD generado correctamente.
+13/08/2026 15:48:29 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 13 08 2026.xlsx
+13/08/2026 15:48:29 - Tiempo total: 1.06 segundos.
+13/08/2026 15:48:29 - --- FIN DE PROCESAMIENTO ---
+

@@ -1,0 +1,40 @@
+10/08/2026 11:30:49 - --- INICIO DE PROCESAMIENTO ---
+10/08/2026 11:30:49 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+10/08/2026 11:30:49 - Archivo leído correctamente. 20 préstamos encontrados.
+10/08/2026 11:30:50 - Archivo para BHD generado correctamente.
+10/08/2026 11:30:50 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 10 08 2026.xlsx
+10/08/2026 11:30:50 - Tiempo total: 1.59 segundos.
+10/08/2026 11:30:50 - --- FIN DE PROCESAMIENTO ---
+
+10/08/2026 11:33:01 - --- INICIO DE PROCESAMIENTO ---
+10/08/2026 11:33:01 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+10/08/2026 11:33:01 - Archivo leído correctamente. 20 préstamos encontrados.
+10/08/2026 11:33:03 - Archivo para BHD generado correctamente.
+10/08/2026 11:33:03 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 10 08 2026.xlsx
+10/08/2026 11:33:03 - Tiempo total: 1.53 segundos.
+10/08/2026 11:33:03 - --- FIN DE PROCESAMIENTO ---
+
+10/08/2026 11:34:46 - --- INICIO DE PROCESAMIENTO ---
+10/08/2026 11:34:46 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+10/08/2026 11:34:46 - Archivo leído correctamente. 20 préstamos encontrados.
+10/08/2026 11:34:48 - Archivo para BHD generado correctamente.
+10/08/2026 11:34:48 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 10 08 2026 (1).xlsx
+10/08/2026 11:34:48 - Tiempo total: 1.13 segundos.
+10/08/2026 11:34:48 - --- FIN DE PROCESAMIENTO ---
+
+10/08/2026 11:34:59 - --- INICIO DE PROCESAMIENTO ---
+10/08/2026 11:34:59 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+10/08/2026 11:34:59 - Archivo leído correctamente. 20 préstamos encontrados.
+10/08/2026 11:35:00 - Archivo para BHD generado correctamente.
+10/08/2026 11:35:00 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 10 08 2026 (2).xlsx
+10/08/2026 11:35:00 - Tiempo total: 1.23 segundos.
+10/08/2026 11:35:00 - --- FIN DE PROCESAMIENTO ---
+
+10/08/2026 11:36:31 - --- INICIO DE PROCESAMIENTO ---
+10/08/2026 11:36:31 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+10/08/2026 11:36:31 - Archivo leído correctamente. 20 préstamos encontrados.
+10/08/2026 11:36:33 - Archivo para BANRESERVAS generado correctamente.
+10/08/2026 11:36:33 - Archivo generado correctamente: MUESTRA DE CARGA BANRESERVAS 10 8 2026.txt
+10/08/2026 11:36:33 - Tiempo total: 1.34 segundos.
+10/08/2026 11:36:33 - --- FIN DE PROCESAMIENTO ---
+

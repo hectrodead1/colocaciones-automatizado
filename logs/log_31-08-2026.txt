@@ -1,0 +1,4 @@
+31/08/2026 09:04:03 - --- INICIO DE PROCESAMIENTO ---
+31/08/2026 09:04:03 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+31/08/2026 09:04:45 - Archivo leído correctamente. 4 préstamos encontrados.
+31/08/2026 09:05:45 - Error inesperado: invalid command name ".!aplicacionprincipal.!frame6.!frame.!text"

@@ -1,0 +1,31 @@
+03/07/2026 15:53:32 - --- INICIO DE PROCESAMIENTO ---
+03/07/2026 15:53:32 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/miproyectomude/proyectos de automatizacion de trabajo/colocaciones automatizado/(ENTRADA)MUESTRA.xlsx
+03/07/2026 15:53:33 - Archivo leído correctamente. 7 préstamos encontrados.
+03/07/2026 16:07:02 - --- INICIO DE PROCESAMIENTO ---
+03/07/2026 16:07:02 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/Hoja1.xlsx
+03/07/2026 16:07:02 - Archivo leído correctamente. 6 préstamos encontrados.
+03/07/2026 16:08:33 - --- INICIO DE PROCESAMIENTO ---
+03/07/2026 16:08:33 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/miproyectomude/proyectos de automatizacion de trabajo/colocaciones automatizado/(ENTRADA)MUESTRA.xlsx
+03/07/2026 16:08:33 - Archivo leído correctamente. 7 préstamos encontrados.
+03/07/2026 16:11:54 - --- INICIO DE PROCESAMIENTO ---
+03/07/2026 16:11:54 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/miproyectomude/proyectos de automatizacion de trabajo/colocaciones automatizado/(ENTRADA)MUESTRA.xlsx
+03/07/2026 16:11:54 - Archivo leído correctamente. 7 préstamos encontrados.
+03/07/2026 16:14:13 - --- INICIO DE PROCESAMIENTO ---
+03/07/2026 16:14:13 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/miproyectomude/proyectos de automatizacion de trabajo/colocaciones automatizado/(ENTRADA)MUESTRA.xlsx
+03/07/2026 16:14:13 - Archivo leído correctamente. 7 préstamos encontrados.
+03/07/2026 16:16:06 - --- INICIO DE PROCESAMIENTO ---
+03/07/2026 16:16:06 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/Hoja1.xlsx
+03/07/2026 16:16:06 - Archivo leído correctamente. 6 préstamos encontrados.
+03/07/2026 16:16:15 - Archivo generado correctamente.
+03/07/2026 16:16:15 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 03072026.xlsx
+03/07/2026 16:16:15 - Tiempo total: 8.64 segundos.
+03/07/2026 16:16:15 - --- FIN DE PROCESAMIENTO ---
+
+03/07/2026 16:18:54 - --- INICIO DE PROCESAMIENTO ---
+03/07/2026 16:18:54 - Archivo de entrada seleccionado: C:/Users/hgomez/Desktop/Hoja1.xlsx
+03/07/2026 16:18:54 - Archivo leído correctamente. 6 préstamos encontrados.
+03/07/2026 16:18:57 - Archivo generado correctamente.
+03/07/2026 16:18:57 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 03072026.xlsx
+03/07/2026 16:18:57 - Tiempo total: 2.43 segundos.
+03/07/2026 16:18:57 - --- FIN DE PROCESAMIENTO ---
+

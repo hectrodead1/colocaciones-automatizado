@@ -1,0 +1,11 @@
+05/08/2026 13:48:33 - --- INICIO DE PROCESAMIENTO ---
+05/08/2026 13:48:33 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+05/08/2026 13:48:33 - El archivo está abierto en otro programa. Ciérrelo e intente nuevamente.
+05/08/2026 13:48:37 - --- INICIO DE PROCESAMIENTO ---
+05/08/2026 13:48:37 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+05/08/2026 13:48:37 - Archivo leído correctamente. 8 préstamos encontrados.
+05/08/2026 13:48:39 - Archivo para BHD generado correctamente.
+05/08/2026 13:48:39 - Archivo generado correctamente: MUESTRA DE CARGA COLOCACION BHD 05 08 2026.xlsx
+05/08/2026 13:48:39 - Tiempo total: 2.03 segundos.
+05/08/2026 13:48:39 - --- FIN DE PROCESAMIENTO ---
+

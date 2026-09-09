@@ -1,0 +1,8 @@
+20/08/2026 15:03:25 - --- INICIO DE PROCESAMIENTO ---
+20/08/2026 15:03:25 - Archivo de entrada seleccionado: C:/Users/hgomez/Documents/Hoja1.xlsx
+20/08/2026 15:03:25 - Archivo leído correctamente. 2 préstamos encontrados.
+20/08/2026 15:03:26 - Archivo para BANRESERVAS generado correctamente.
+20/08/2026 15:03:26 - Archivo generado correctamente: MUESTRA DE CARGA BANRESERVAS 20 8 2026.txt
+20/08/2026 15:03:26 - Tiempo total: 1.19 segundos.
+20/08/2026 15:03:26 - --- FIN DE PROCESAMIENTO ---
+
